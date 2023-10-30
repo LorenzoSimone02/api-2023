@@ -1,7 +1,5 @@
 # Prova finale di Algoritmi e Strutture dati 2022-2023
 
-### **Il codice verrà pubblicato dopo l'ultima verbalizzazione della sessione di Febbraio 2024.**
-
 <p align="justify"> Si consideri un’autostrada descritta come una sequenza di stazioni di servizio. Ogni stazione di servizio si trova
 ad una distanza dall’inizio dell’autostrada espressa in chilometri da un numero intero positivo o nullo. Non esistono
 due stazioni di servizio aventi la stessa distanza: ogni stazione di servizio è quindi univocamente identificata dalla
