@@ -1,5 +1,13 @@
 # Prova finale di Algoritmi e Strutture dati 2022-2023
 
+**Studente**: Lorenzo Simone
+
+**Docente**: Davide Martinenghi
+
+**Valutazione progetto**: 30L/30
+
+## Specifica del progetto
+
 <p align="justify"> Si consideri un’autostrada descritta come una sequenza di stazioni di servizio. Ogni stazione di servizio si trova
 ad una distanza dall’inizio dell’autostrada espressa in chilometri da un numero intero positivo o nullo. Non esistono
 due stazioni di servizio aventi la stessa distanza: ogni stazione di servizio è quindi univocamente identificata dalla
